@@ -19,3 +19,7 @@ The frontend is structured around a simple and clean user interface. It consists
 The application is event-driven, meaning it responds to specific events like  a new user joining, sending a message, or disconnecting from the chat. This design enables a highly interactive and real-time experience for all users involved. Although the current implementation is basic, it provides a solid foundation for more complex chat applications. Additional features such as user authentication, typing indicators, private messaging, message timestamps, and chat history storage in a database can be incorporated to enhance functionality.
 The chat application effectively demonstrates how to use Socket.IO to handle real-time events and update the user interface dynamically. It also shows the power of combining server-side JavaScript (Node.js) with client-side JavaScript to build fully interactive applications. This project is ideal for beginners in web development or those interested in learning how real-time web applications work. It also serves as a practical introduction to WebSocket programming and can be extended for more advanced use cases like customer support systems, multiplayer games, collaborative tools, or live comment sections.
 Overall, this chat application is a functional and efficient example of real-time web communication, offering an engaging user experience through seamless, instant message delivery between connected clients.
+
+"OUTPUT":
+
+![Image](https://github.com/user-attachments/assets/ac116a17-f761-403a-8e52-0708e35b364f)
